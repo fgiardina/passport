@@ -13,6 +13,12 @@
             "email": "taylor@laravel.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/fgiardina/oauth2-client"
+        }
+    ],
     "require": {
         "php": ">=7.1",
         "ext-json": "*",
